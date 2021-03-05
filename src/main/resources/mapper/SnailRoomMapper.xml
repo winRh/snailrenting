@@ -11,7 +11,7 @@
         <result column="bedroom_img2" jdbcType="VARCHAR" property="bedroomImg2" />
         <result column="desp" jdbcType="VARCHAR" property="desp" />
         <result column="state" jdbcType="INTEGER" property="state" />
-        <result column="prasie" jdbcType="BIGINT" property="prasie" />
+        <result column="prasie" jdbcType="BIGINT" property="praise" />
         <result column="create_by" jdbcType="INTEGER" property="createBy" />
         <result column="update_by" jdbcType="INTEGER" property="updateBy" />
         <result column="create_date" jdbcType="TIMESTAMP" property="createDate" />
